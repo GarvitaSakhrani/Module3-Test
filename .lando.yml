@@ -1,0 +1,4 @@
+name: module3
+recipe: drupal10
+config:
+  webroot: web
